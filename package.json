@@ -101,6 +101,6 @@
     }
   },
   "dependencies": {
-    "react-native-dynamic-style-processor": "^0.21.0"
+    "react-native-dynamic-style-processor": "git+https://github.com/5468sun/react-native-dynamic-style-processor.git"
   }
 }
